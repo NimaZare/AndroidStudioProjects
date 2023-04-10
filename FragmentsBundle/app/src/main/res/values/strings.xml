@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fragments Bundle</string>
+    <string name="et_a_hint">Enter Your Text...</string>
+    <string name="btn_a_Done">Done</string>
+    <string name="tv_b_show_text">B</string>
+</resources>

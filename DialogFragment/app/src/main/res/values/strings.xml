@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog Fragment</string>
+    <string name="btn_main_text">Show Dialog</string>
+    <string name="btn_dialog_ok">OK</string>
+    <string name="btn_dialog_cancel">Cancel</string>
+    <string name="et_dialog_hint">Enter Text...</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">لیست وظایف</string>
+    <string name="fab_main_text">افزودن وظیفه</string>
+    <string name="etl_save_hint">عنوان</string>
+    <string name="tv_dialog_save_text">اضافه کردن وظیفه</string>
+    <string name="btn_dialog_save_text">ذخیره</string>
+    <string name="tv_edit_text">ویرایش وظیفه</string>
+</resources>

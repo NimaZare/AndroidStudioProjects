@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Seven Learn Students</string>
+    <string name="activityAddNewStudent_label">Add New Student</string>
+    <string name="main_btnAddStudentTxt">Add Student</string>
+    <string name="addNewStudent_btnSaveTxt">Save</string>
+    <string name="addNewStudent_firstNameHint">First Name</string>
+    <string name="addNewStudent_lastNameHint">Last Name</string>
+    <string name="addNewStudent_courseHint">Course</string>
+    <string name="addNewStudent_scoreHint">Score</string>
+    <string name="student_imageText">Bar</string>
+
+</resources>
