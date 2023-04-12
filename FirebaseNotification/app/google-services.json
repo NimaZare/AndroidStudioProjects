@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875145639373",
+    "project_id": "fir-notification-f2856",
+    "storage_bucket": "fir-notification-f2856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875145639373:android:2bb833ab262664ee854084",
+        "android_client_info": {
+          "package_name": "net.nimazare.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875145639373-h57ajn0mpclt3sklo14r6ghv7d6f3l1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9TDzTmudXCyE3zJILW7Isb4kw5mYvezk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875145639373-h57ajn0mpclt3sklo14r6ghv7d6f3l1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
