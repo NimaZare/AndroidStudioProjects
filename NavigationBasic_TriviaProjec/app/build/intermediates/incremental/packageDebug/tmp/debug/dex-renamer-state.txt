@@ -1,0 +1,4 @@
+#Wed Apr 26 22:43:27 GMT+03:30 2023
+base.0=D\:\\Programming\\Android\\NavigationBasic_TriviaProjec\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

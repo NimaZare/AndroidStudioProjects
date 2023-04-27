@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NavigationBasic_TriviaProjec.iml" filepath="$PROJECT_DIR$/.idea/modules/NavigationBasic_TriviaProjec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationBasic_TriviaProjec.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
