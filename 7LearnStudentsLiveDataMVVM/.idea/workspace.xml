@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d3edaaa-366d-4802-bee7-b6dcc8d16e76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sevenlearn/a7learnstudents/AddNewStudentFormActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sevenlearn/a7learnstudents/ApiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sevenlearn/a7learnstudents/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sevenlearn/a7learnstudents/RetrofitApiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sevenlearn/a7learnstudents/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sevenlearn/a7learnstudents/StudentAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_new_student_form.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_new_student_form.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="4_WVGA_Nexus_S_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YiJLJANlD0QJVsrignXJKZgRBm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.sevenlearn.a7learnstudents" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="4_WVGA_Nexus_S_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-03T17:21:31.535Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.sevenlearn.a7learnstudents" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saeed\AndroidStudioProjects\7LearnStudents\app\src\main\res\font" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d3edaaa-366d-4802-bee7-b6dcc8d16e76" name="Default Changelist" comment="" />
+      <created>1583419423497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583419423497</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Working on it">
+      <created>1583598112997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583598112997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="after volley sessions">
+      <created>1584018720270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584018720270</updated>
+    </task>
+    <task id="LOCAL-00003" summary="after gson session">
+      <created>1584022565212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584022565212</updated>
+    </task>
+    <task id="LOCAL-00004" summary="after customization volley request session">
+      <created>1584032781573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584032781573</updated>
+    </task>
+    <task id="LOCAL-00005" summary="after retrofit session">
+      <created>1593438909035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593438909035</updated>
+    </task>
+    <task id="LOCAL-00006" summary="After Session Rx">
+      <created>1593445755245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593445755245</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working on it" />
+    <MESSAGE value="after volley sessions" />
+    <MESSAGE value="after gson session" />
+    <MESSAGE value="after customization volley request session" />
+    <MESSAGE value="after retrofit session" />
+    <MESSAGE value="After Session Rx" />
+    <option name="LAST_COMMIT_MESSAGE" value="After Session Rx" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="161" y="107" key="AndroidProcessChooserDialog" timestamp="1595108313276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="161" y="107" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1595108313276" />
+    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1593445754528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593445754528" />
+    <state x="93" y="93" width="2108" height="735" key="DiffContextDialog" timestamp="1595105323071">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="93" y="93" width="2108" height="735" key="DiffContextDialog/0.0.2293.920@0.0.2293.920" timestamp="1595105323071" />
+    <state x="370" y="38" key="FileChooserDialogImpl" timestamp="1595116127799">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="38" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595116127799" />
+    <state width="1223" height="185" key="GridCell.Tab.0.bottom" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state width="2237" height="516" key="GridCell.Tab.0.bottom/0.0.2293.920@0.0.2293.920" timestamp="1593440297420" />
+    <state width="1223" height="185" key="GridCell.Tab.0.center" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state width="2237" height="516" key="GridCell.Tab.0.center/0.0.2293.920@0.0.2293.920" timestamp="1593440297419" />
+    <state width="1223" height="185" key="GridCell.Tab.0.left" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state width="2237" height="516" key="GridCell.Tab.0.left/0.0.2293.920@0.0.2293.920" timestamp="1593440297419" />
+    <state width="1223" height="185" key="GridCell.Tab.0.right" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state width="2237" height="516" key="GridCell.Tab.0.right/0.0.2293.920@0.0.2293.920" timestamp="1593440297420" />
+    <state width="1223" height="185" key="GridCell.Tab.1.bottom" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state width="1223" height="185" key="GridCell.Tab.1.center" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state width="1223" height="185" key="GridCell.Tab.1.left" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state width="1223" height="185" key="GridCell.Tab.1.right" timestamp="1595109975144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1223" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595109975144" />
+    <state x="836" y="105" key="RollbackChangesDialog" timestamp="1595106615097">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="836" y="105" key="RollbackChangesDialog/0.0.2293.920@0.0.2293.920" timestamp="1595106615097" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1595113044747">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.2293.920@0.0.2293.920" timestamp="1595113044747" />
+    <state x="726" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1600962427016">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="405" y="0" width="840" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1595108243369" />
+    <state x="726" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.2293.920@0.0.2293.920" timestamp="1600962427016" />
+  </component>
+</project>
